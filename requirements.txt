@@ -1,0 +1,6 @@
+mediapipe==0.10.31
+opencv-contrib-python
+numpy
+face_recognition
+cmake
+dlib
