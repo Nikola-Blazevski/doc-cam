@@ -1,4 +1,4 @@
-# Hand & Face Detection with Persistent Identity Tracking
+# doc-cam - Hand & Face Detection with Persistent Identity Tracking
 
 Real-time video processing pipeline that detects hands and faces, labels individual fingers (thumb, pointer, middle), and assigns persistent UUIDs to recognized faces across sessions.
 
@@ -140,4 +140,3 @@ Edit `config.py` to adjust:
 - Each camera runs its own independent detectors and trackers
 - If cameras have different resolutions, frames are resized to match the first camera
 - To share face identity across cameras, set both to the same `db_path` in `main.py`
-# doc-cam
