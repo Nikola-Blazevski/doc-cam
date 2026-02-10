@@ -1,6 +1,8 @@
 # doc-cam - Hand & Face Detection with Persistent Identity Tracking
 
-Real-time video processing pipeline that detects hands and faces, labels individual fingers (thumb, pointer, middle), and assigns persistent UUIDs to recognized faces across sessions.
+A real-time video processing pipeline that detects hands and faces, labels individual fingers (thumb, pointer, middle), and assigns persistent UUIDs to recognized faces across sessions.
+
+** THIS PROJECT HAS A LOT OF AI CODE IN IT I CANNOT PROMISE ANY STABILITY FOR NOW**
 
 ## Project Structure
 
